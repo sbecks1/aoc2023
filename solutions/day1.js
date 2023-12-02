@@ -16,4 +16,4 @@ for (line of lines) {
     calSum += findCalibrationValue(line);
 }
 
-console.log(calSum);
+console.log(calSum); 
